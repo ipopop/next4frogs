@@ -2,6 +2,7 @@
 
 from tuto : https://youtu.be/naQ6N00Xd4A
 
+my version on Vercel : https://next4frogs-sand.vercel.app/
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
