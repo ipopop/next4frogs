@@ -134,7 +134,7 @@ export default {
 			step: 5,
 			reponse: 1,
 			text:
-				"Une URL est automatiquement crée  lorsque l'on insère un fichier JS ou JSX dans le dossier /pages. Il permet aussi d'utiliser le routage dynamique au moyen de withRouter()",
+				"Une URL est automatiquement créée lorsque l'on insère un fichier JS ou JSX dans le dossier /pages. Il permet aussi d'utiliser le routage dynamique au moyen de withRouter()",
 		},
 		{
 			step: 7,
