@@ -89,7 +89,7 @@ export default function Home({ talk }) {
 export async function getStaticProps() {
 	// Appel de notre propre API avec fetch inclus nativement dans NextJS
 	// A faire sur votre url de deploiement une fois le projet en ligne.
-	const res = await fetch("https://next4frogs.vercel.app/api/hello");
+	const res = await fetch("http://next4frogs.sqrl.vercel.app/");
 	const talk = await res.json();
 
 	// on retourne le script de dialogue au composant pour qu'il le traite au rendu.
